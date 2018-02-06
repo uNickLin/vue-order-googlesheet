@@ -1,0 +1,297 @@
+[
+  {
+    "seriesName": "找好茶",
+    "list": [
+      {
+        "productName": "茉莉綠茶",
+        "priceM": 20,
+        "priceL": 25
+      },
+      {
+        "productName": "阿薩姆紅茶",
+        "priceM": 20,
+        "priceL": 25
+      },
+      {
+        "productName": "四季春茶",
+        "priceM": 20,
+        "priceL": 25
+      },
+      {
+        "productName": "黃金烏龍",
+        "priceM": 20,
+        "priceL": 25
+      },
+      {
+        "productName": "檸檬綠",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "梅果綠",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "蜂蜜綠",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "桔子綠",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "8冰綠",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "養樂多綠",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "冰淇淋紅茶",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "芒果青(綠)茶",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "鮮柚綠",
+        "priceM": 45,
+        "priceL": 60
+      }
+    ]
+  },
+  {
+    "seriesName": "找奶茶",
+    "list": [
+      {
+        "productName": "奶茶",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "奶綠",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "紅茶瑪其朵",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "黃金烏龍奶茶",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "四季奶青",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "黑糖奶茶",
+        "priceM": 40,
+        "priceL": 55
+      },
+      {
+        "productName": "焦糖奶茶",
+        "priceM": 40,
+        "priceL": 55
+      },
+      {
+        "productName": "榛果奶茶",
+        "priceM": 40,
+        "priceL": 55
+      },
+      {
+        "productName": "阿華田",
+        "priceM": 40,
+        "priceL": 55
+      },
+      {
+        "productName": "可可芭蕾",
+        "priceM": 45,
+        "priceL": 60
+      }
+    ]
+  },
+  {
+    "seriesName": "找口感",
+    "list": [
+      {
+        "productName": "波霸紅茶",
+        "priceM": 25,
+        "priceL": 35
+      },
+      {
+        "productName": "波霸綠茶",
+        "priceM": 25,
+        "priceL": 35
+      },
+      {
+        "productName": "波霸青茶",
+        "priceM": 25,
+        "priceL": 35
+      },
+      {
+        "productName": "波霸烏龍茶",
+        "priceM": 25,
+        "priceL": 35
+      },
+      {
+        "productName": "珍珠紅茶",
+        "priceM": 25,
+        "priceL": 35
+      },
+      {
+        "productName": "珍珠綠茶",
+        "priceM": 25,
+        "priceL": 35
+      },
+      {
+        "productName": "珍珠青茶",
+        "priceM": 25,
+        "priceL": 35
+      },
+      {
+        "productName": "珍珠烏龍茶",
+        "priceM": 25,
+        "priceL": 35
+      },
+      {
+        "productName": "波霸奶綠",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "波霸奶茶",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "珍珠奶綠",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "珍珠奶茶",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "椰果奶綠",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "仙草奶凍",
+        "priceM": 35,
+        "priceL": 50
+      }
+    ]
+  },
+  {
+    "seriesName": "找新鮮",
+    "list": [
+      {
+        "productName": "蜜茶",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "8冰茶",
+        "priceM": 35,
+        "priceL": 50
+      },
+      {
+        "productName": "檸檬汁",
+        "priceM": 40,
+        "priceL": 55
+      },
+      {
+        "productName": "金桔檸檬",
+        "priceM": 40,
+        "priceL": 55
+      },
+      {
+        "productName": "檸檬梅子",
+        "priceM": 45,
+        "priceL": 60
+      },
+      {
+        "productName": "鮮桔茶",
+        "priceM": 45,
+        "priceL": 60
+      },
+      {
+        "productName": "鮮柚汁",
+        "priceM": 45,
+        "priceL": 60
+      },
+      {
+        "productName": "金桔檸檬蜜",
+        "priceM": 50,
+        "priceL": 70
+      },
+      {
+        "productName": "檸檬蜜",
+        "priceM": 50,
+        "priceL": 70
+      },
+      {
+        "productName": "檸檬養樂多",
+        "priceM": 50,
+        "priceL": 70
+      },
+      {
+        "productName": "葡萄柚多多",
+        "priceM": 50,
+        "priceL": 70
+      }
+    ]
+  },
+  {
+    "seriesName": "找拿鐵",
+    "list": [
+      {
+        "productName": "紅茶拿鐵",
+        "priceM": 45,
+        "priceL": 60
+      },
+      {
+        "productName": "綠茶拿鐵",
+        "priceM": 45,
+        "priceL": 60
+      },
+      {
+        "productName": "黃金烏龍拿鐵",
+        "priceM": 45,
+        "priceL": 60
+      },
+      {
+        "productName": "黑糖紅茶拿鐵",
+        "priceM": 50,
+        "priceL": 70
+      },
+      {
+        "productName": "阿華田拿鐵",
+        "priceM": 50,
+        "priceL": 70
+      },
+      {
+        "productName": "可可芭蕾拿鐵",
+        "priceM": 55,
+        "priceL": 75
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "size": [
+    "M", "L"
+  ],
+  "sugar": [
+    {
+      "nameTw": "正常",
+      "nameEn": "Regular"
+    },
+    {
+      "nameTw": "少糖",
+      "nameEn": "Less"
+    },
+    {
+      "nameTw": "半糖",
+      "nameEn": "Half"
+    },
+    {
+      "nameTw": "微糖",
+      "nameEn": "Quarter"
+    },
+    {
+      "nameTw": "無糖",
+      "nameEn": "Sugar-free"
+    }
+  ],
+  "ice": [
+    {
+      "nameTw": "正常",
+      "nameEn": "Regular"
+    },
+    {
+      "nameTw": "少冰",
+      "nameEn": "Less"
+    },
+    {
+      "nameTw": "微冰",
+      "nameEn": "Easy"
+    },
+    {
+      "nameTw": "去冰",
+      "nameEn": "Ice-free"
+    },
+    {
+      "nameTw": "常溫",
+      "nameEn": "Room"
+    },
+    {
+      "nameTw": "熱飲",
+      "nameEn": "Hot"
+    }
+  ]
+}
